@@ -1,4 +1,4 @@
-"scripts": {
+{"scripts": {
  "start": "node index.js",
  "build": "webpack"
-}
+}}
