@@ -8,6 +8,7 @@
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi"
+   
   },
   "devDependencies": {},
   "dependencies": {
@@ -29,8 +30,8 @@
     "uuid": "ad4b7cab-591f-4046-a79f-dd59425a2a0a"
   },
   "engines": {
-    "node": ">=10.0.0",
-    "npm": ">=6.0.0"
+    "node": ">=10.15.3",
+    "npm": ">=6.4.1"
   },
   "license": "MIT"
 }
